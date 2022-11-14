@@ -1,4 +1,4 @@
-# lab3.2![image](https://user-images.githubusercontent.com/71080020/201644923-9d866177-3732-4047-8958-6198bd25b1ea.png)
-![image (1)](https://user-images.githubusercontent.com/71080020/201644936-1762931d-f34a-42a3-9185-2207c56c501c.png)
-![image (2)](https://user-images.githubusercontent.com/71080020/201644943-37fc39de-28d7-4462-b147-0f1f13154c68.png)
-![image (3)](https://user-images.githubusercontent.com/71080020/201644948-d3b1d758-819c-404e-bace-5d3bc7da3551.png)
+![image](https://user-images.githubusercontent.com/71080020/201645702-44dbeb05-92c5-4a23-bf14-c2ec8ca57e54.png)
+![image (1)](https://user-images.githubusercontent.com/71080020/201645712-16ff7ef7-e56c-4442-9152-3fb81138ee4b.png)
+![image (3) 1](https://user-images.githubusercontent.com/71080020/201645717-2179e765-b0c9-4584-ab7a-b937debc8731.png)
+![image (3) 2](https://user-images.githubusercontent.com/71080020/201645723-9bc9c43c-a934-482a-aadc-df1e639975c4.png)
